@@ -1,0 +1,6 @@
+Ingredients:
+ - 1 pizza base 
+ - 1 can of tomato sauce
+
+Directions:
+  1. Make pizza
